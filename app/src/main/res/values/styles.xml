@@ -1,0 +1,81 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- 普通的时间字体 -->
+    <style name="normal_time_text_style" parent="normal_text_style">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/tv_gray_light</item>
+    </style>
+
+    <!-- 普通的字体 -->
+    <style name="normal_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:textColor">@color/tv_gray_normal</item>
+    </style>
+
+    <!-- 普通的 line -->
+    <style name="normal_line_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/line_height</item>
+        <item name="android:background">@color/line</item>
+    </style>
+
+    <!-- 普通的 btn -->
+    <style name="normal_btn_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/btn_height_normal</item>
+        <item name="android:background">@drawable/bg_btn_normal</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- 普通的 item -->
+    <style name="normal_item_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_height">@dimen/item_height_normal</item>
+        <item name="android:paddingLeft">@dimen/text_margin_normal</item>
+        <item name="android:paddingRight">@dimen/text_margin_normal</item>
+        <item name="android:background">@drawable/item_white_selector_bg</item>
+        <item name="android:layout_marginTop">@dimen/line_height</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <!-- 普通的 icon 点击背景 -->
+    <style name="normal_icon_click_bg_style">
+        <item name="android:layout_width">@dimen/icon_external_size</item>
+        <item name="android:layout_height">@dimen/icon_external_size</item>
+        <item name="android:background">@drawable/bg_tab</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- 普通的 icon -->
+    <style name="normal_icon_style">
+        <item name="android:layout_width">@dimen/icon_external_size</item>
+        <item name="android:layout_height">@dimen/icon_external_size</item>
+        <item name="android:padding">@dimen/icon_external_padding</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:background">@drawable/bg_tab</item>
+    </style>
+
+
+    <!-- 普通的 回退 icon -->
+    <style name="normal_icon_back_style">
+        <item name="android:layout_width">@dimen/icon_back_width</item>
+        <item name="android:layout_height">@dimen/icon_back_height</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+
+</resources>

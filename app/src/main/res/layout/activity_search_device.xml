@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.olosom.health.widget.bar.NormalTitleBar xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleBarTitle="@string/search_device" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="@dimen/margin_medium"
+        android:paddingBottom="@dimen/margin_normal"
+        android:background="@android:color/white">
+
+        <View
+            android:layout_width="@dimen/search_device_view_width"
+            android:layout_height="@dimen/search_device_view_height"
+            android:background="@android:color/holo_blue_light"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/btn_search"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:id="@+id/btn_search"
+            android:text="@string/search"
+            android:layout_alignParentBottom="true"
+            style="@style/normal_btn_style" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>
