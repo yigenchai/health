@@ -23,4 +23,7 @@ public class App extends Application {
         sInstance = this;
     }
 
+
+    //测试一下哦
+
 }
