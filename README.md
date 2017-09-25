@@ -1,7 +1,10 @@
 # health
 #i write the first row!-zhou
 
-# ÐÂÐ´µÄ¶«Î÷¿´¿´ÔõÃ´Åª
+# ï¿½ï¿½Ð´ï¿½Ä¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã´Åª
 # health# i write the second row!-zhou
-# ÄãÓÐÖÖÏÔÊ¾Ò»°ÑÂÒÂë£¬ÎÒ¾Í´òµç»°¸øÔËìõ°ÑÄãÅªËÀ£¡
-ºÇºÇºÇºÇ£¡£¡£¡£¡£¡£¡
+# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ë£¬ï¿½Ò¾Í´ï¿½ç»°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åªï¿½ï¿½ï¿½ï¿½
+ï¿½ÇºÇºÇºÇ£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+
+
+ä¸ºä»€ä¹ˆ ä½ ä»¬éƒ½æ˜¯ä¹±ç å‘¢
