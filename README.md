@@ -1,4 +1,4 @@
-# health
+# healt
 #i write the first row!-zhou
 
 # ��д�Ķ���������ôŪ
@@ -8,3 +8,11 @@
 
 
 为什么 你们都是乱码呢
+不知道啊
+#include<iostream>
+#include<stdbil.h>
+int main(void)
+  {
+  printf("fuck!\n");
+  return 0;
+  }
